@@ -8,8 +8,8 @@ About Us: Provides background information about the coffee shop.
 Contact: Includes contact details and a contact form.
 
 **Technologies Used**
-HTML
-CSS
+1.HTML
+2.CSS
 JavaScript (optional, if used)
 
 **Getting Started**
